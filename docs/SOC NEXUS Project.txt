@@ -1,0 +1,38 @@
+الحمدلله دائما وابدا ♥️
+
+🚀 Introducing SOC NEXUS — My Evolving SOC Automation Center
+
+From separate security tools to one unified workspace. That's the idea behind SOC NEXUS.
+
+I've been building and continuously improving this project to bring the key components of my SOC lab together in one centralized, analyst-focused dashboard.
+
+🔹 The technology behind the project
+- Splunk — Security monitoring, detection visibility, and incident data.
+- n8n — Workflow automation and execution tracking.
+- MISP — Threat intelligence and IOC enrichment.
+- TheHive — Incident management and investigation workflows.
+
+🛡️ What SOC NEXUS currently offers
+- Centralized security operations overview.
+- System health monitoring.
+- Detection analytics and incident exploration.
+- Investigation and incident visibility.
+- Automation history and response pipeline.
+- A dedicated audio command center with configurable notifications.
+- Authenticated dashboard access and analyst-focused controls.
+
+My philosophy is simple visibility, security, and analyst control.
+
+This is more than a dashboard interface. It is a hands-on engineering project where I bring together security technologies, automation, monitoring, integration, and user experience to build a more organized SOC environment.
+
+And I'm not stopping here.
+
+🚧 SOC NEXUS is an evolving project, not a finished product. I will continue upgrading it, improving its design, strengthening its security, refining its monitoring capabilities, and introducing new features and smarter workflows.
+
+Every improvement is another step toward building a more capable and professional Security Operations Center environment.
+
+The journey is still ongoing — and there is much more to come.
+
+Built, tested, improved, and continuously evolving.
+
+#SOC #CyberSecurity #Splunk #SecurityAutomation #DFIR #BlueTeam #n8n #MISP

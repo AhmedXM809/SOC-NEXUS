@@ -1,0 +1,35 @@
+﻿# Credentials and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials/
+secrets/
+
+# Databases and operational logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
+
+# Local review files
+REVIEW-GALLERY.html
+
+# Operating system and editors
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
