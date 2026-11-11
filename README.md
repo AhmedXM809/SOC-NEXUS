@@ -41,25 +41,21 @@ See [Architecture Documentation](docs/ARCHITECTURE.md).
 
 ## Dashboard Screenshots
 
-The showcase includes 16 dashboard screenshots and one login screenshot.
+Explore the SOC NEXUS interface through these 17 original screenshots.
 
-- [Dashboard 1.png](assets/screenshots/Dashboard%201.png)
-- [Dashboard 10.png](assets/screenshots/Dashboard%2010.png)
-- [Dashboard 11.png](assets/screenshots/Dashboard%2011.png)
-- [Dashboard 12.png](assets/screenshots/Dashboard%2012.png)
-- [Dashboard 13.png](assets/screenshots/Dashboard%2013.png)
-- [Dashboard 14.png](assets/screenshots/Dashboard%2014.png)
-- [Dashboard 15.png](assets/screenshots/Dashboard%2015.png)
-- [Dashboard 16.png](assets/screenshots/Dashboard%2016.png)
-- [Dashboard 2.png](assets/screenshots/Dashboard%202.png)
-- [Dashboard 3.png](assets/screenshots/Dashboard%203.png)
-- [Dashboard 4.png](assets/screenshots/Dashboard%204.png)
-- [Dashboard 5.png](assets/screenshots/Dashboard%205.png)
-- [Dashboard 6.png](assets/screenshots/Dashboard%206.png)
-- [Dashboard 7.png](assets/screenshots/Dashboard%207.png)
-- [Dashboard 8.png](assets/screenshots/Dashboard%208.png)
-- [Dashboard 9.png](assets/screenshots/Dashboard%209.png)
-- [Login.png](assets/screenshots/Login.png)
+<table>
+<tbody>
+<tr><td align='center'><strong>Dashboard 1</strong><br><img src='./assets/screenshots/Dashboard%201.png' width='480' alt='Dashboard 1' /></td><td align='center'><strong>Dashboard 2</strong><br><img src='./assets/screenshots/Dashboard%202.png' width='480' alt='Dashboard 2' /></td></tr>
+<tr><td align='center'><strong>Dashboard 3</strong><br><img src='./assets/screenshots/Dashboard%203.png' width='480' alt='Dashboard 3' /></td><td align='center'><strong>Dashboard 4</strong><br><img src='./assets/screenshots/Dashboard%204.png' width='480' alt='Dashboard 4' /></td></tr>
+<tr><td align='center'><strong>Dashboard 5</strong><br><img src='./assets/screenshots/Dashboard%205.png' width='480' alt='Dashboard 5' /></td><td align='center'><strong>Dashboard 6</strong><br><img src='./assets/screenshots/Dashboard%206.png' width='480' alt='Dashboard 6' /></td></tr>
+<tr><td align='center'><strong>Dashboard 7</strong><br><img src='./assets/screenshots/Dashboard%207.png' width='480' alt='Dashboard 7' /></td><td align='center'><strong>Dashboard 8</strong><br><img src='./assets/screenshots/Dashboard%208.png' width='480' alt='Dashboard 8' /></td></tr>
+<tr><td align='center'><strong>Dashboard 9</strong><br><img src='./assets/screenshots/Dashboard%209.png' width='480' alt='Dashboard 9' /></td><td align='center'><strong>Dashboard 10</strong><br><img src='./assets/screenshots/Dashboard%2010.png' width='480' alt='Dashboard 10' /></td></tr>
+<tr><td align='center'><strong>Dashboard 11</strong><br><img src='./assets/screenshots/Dashboard%2011.png' width='480' alt='Dashboard 11' /></td><td align='center'><strong>Dashboard 12</strong><br><img src='./assets/screenshots/Dashboard%2012.png' width='480' alt='Dashboard 12' /></td></tr>
+<tr><td align='center'><strong>Dashboard 13</strong><br><img src='./assets/screenshots/Dashboard%2013.png' width='480' alt='Dashboard 13' /></td><td align='center'><strong>Dashboard 14</strong><br><img src='./assets/screenshots/Dashboard%2014.png' width='480' alt='Dashboard 14' /></td></tr>
+<tr><td align='center'><strong>Dashboard 15</strong><br><img src='./assets/screenshots/Dashboard%2015.png' width='480' alt='Dashboard 15' /></td><td align='center'><strong>Dashboard 16</strong><br><img src='./assets/screenshots/Dashboard%2016.png' width='480' alt='Dashboard 16' /></td></tr>
+<tr><td align='center'><strong>Login</strong><br><img src='./assets/screenshots/Login.png' width='480' alt='Login' /></td><td></td></tr>
+</tbody>
+</table>
 
 ## Security
 
